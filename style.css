@@ -1,0 +1,43 @@
+
+    .body {
+      background: #ccc1e5;
+    }
+
+    h1 {
+      color: purple;
+      text-align: left;
+    }
+
+.head {
+    color: red;
+  }
+  
+  h1 {
+    text-align: left;
+    font-size: 48px;
+    font-weight: thin;
+    text-decoration: underline;
+  }
+
+style
+    .europe {
+      color: rgb(255, 0, 123);
+    }
+    .america {
+      color: green;
+    }
+    .a{
+        color: rgb(164, 114, 38);
+    }
+    ul{
+        color: rgb(4, 4, 4);
+    }
+    .coder{
+        color: blue;
+    }
+    .course{
+        color: rgb(216, 5, 5);
+    }
+    .story{
+      color: green;
+    }
