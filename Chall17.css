@@ -1,0 +1,29 @@
+h1 {
+    color: #885df1;
+    text-align: center;
+  }
+  h2 {
+    color: #272044;
+    text-align: center;
+    font-size: xx-large;
+  }
+  body {
+    background-color: #f5f0fe;
+  }
+  img {
+    display: block;
+    margin: auto;
+  }
+  h4 {
+    text-align: center;
+  }
+  h5 {
+    text-align: center;
+    background-color: rgba(231, 233, 233, 0.325);
+    color: #a06fb1;
+    padding: 10px;
+    margin: 5px 650px 5px 650px;
+    border: 1px solid #b0afafc8;
+    box-shadow: #313033;
+    border-radius: 20px 20px 20px 20px;
+  }
